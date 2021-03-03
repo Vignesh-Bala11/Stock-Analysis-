@@ -1,1 +1,0 @@
-# Green Stock Analysis using excel VBA 
