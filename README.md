@@ -31,4 +31,9 @@ After calculating the total daily volumes and the returns of each green stock in
 
 ## Run-Time Screen Shoots
 - Orginal Code 
+![VBA_2017_Old](https://user-images.githubusercontent.com/57723459/110152596-f1897b80-7daf-11eb-8ebf-c97b16eb4290.png)
+![VBA_2018_Old](https://user-images.githubusercontent.com/57723459/110152646-fbab7a00-7daf-11eb-8c51-6cfdeb837177.png)
+
 - Refactored Code 
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/57723459/110152666-0534e200-7db0-11eb-9110-51214532df86.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/57723459/110152677-082fd280-7db0-11eb-96d0-bf70ae675cbb.png)
